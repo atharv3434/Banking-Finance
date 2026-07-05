@@ -142,4 +142,4 @@ GET /api/v1/accounts/1/transactions?page=0&size=10
 - [ ] Wire up Prometheus + Grafana for observability
 - [ ] Containerise with Docker (`FROM eclipse-temurin:17-jre`)
 
-----
+
